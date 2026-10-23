@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.dharmikvibes/wellness",
+  "title": "DharmikVibes Wellness",
+  "description": "Spiritual wellness journeys, retreats and sessions across India, with plans and published prices",
+  "version": "1.0.0",
+  "websiteUrl": "https://wellness.dharmikvibes.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://wellness.dharmikvibes.com/mcp"
+    }
+  ]
+}

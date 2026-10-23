@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.dharmikvibes/studio",
+  "title": "DharmikStudio",
+  "description": "Hindu devotional audio, katha, aartis, Gita, temple stories and festival guides in Hindi and English",
+  "version": "1.0.0",
+  "websiteUrl": "https://studio.dharmikvibes.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://studio.dharmikvibes.com/mcp"
+    }
+  ]
+}

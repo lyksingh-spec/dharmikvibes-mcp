@@ -1,0 +1,7 @@
+{
+  "name": "dharmikwellness",
+  "version": "1.0.0",
+  "description": "DharmikVibes Wellness: spiritual wellness journeys, retreats and sessions in India. Read-only.",
+  "mcpServers": { "dharmikwellness": { "httpUrl": "https://wellness.dharmikvibes.com/mcp", "timeout": 30000 } },
+  "contextFileName": "GEMINI.md"
+}

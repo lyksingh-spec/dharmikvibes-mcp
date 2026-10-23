@@ -1,0 +1,12 @@
+{
+  "name": "divineai",
+  "version": "1.0.0",
+  "description": "Hindu panchang, verified festival dates and vrat dates from DivineAI by DharmikVibes. Read-only; no prices.",
+  "mcpServers": {
+    "divineai": {
+      "httpUrl": "https://divineai-mcp.dharmikvibes.com/divineai",
+      "timeout": 30000
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
