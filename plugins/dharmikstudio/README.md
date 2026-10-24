@@ -53,7 +53,7 @@ The plugin is read-only. It does not sign you in, see any account or listening h
 
 ## Data
 
-The plugin runs no code on your computer and has no hooks or scripts. When a skill uses the connector, Claude sends your search words, city, dates or the id of a page to studio.dharmikvibes.com, which DharmikVibes operates, and shows you what comes back. The server needs no account, asks for no personal data and returns only public content. Requests are logged for security and reliability as described in the privacy policy. Nothing is sent anywhere else.
+The plugin runs no code on your computer and has no hooks or scripts. When a skill uses the connector, Claude sends your search words, optional language, format or category filters, a number of days for new releases, or the id of a work to studio.dharmikvibes.com, which DharmikVibes operates, and shows you what comes back. The server needs no account, asks for no personal data and returns only public content. Requests are logged for security and reliability as described in the privacy policy. Nothing is sent anywhere else.
 
 - Privacy policy: https://studio.dharmikvibes.com/privacy
 - Terms: https://studio.dharmikvibes.com/terms

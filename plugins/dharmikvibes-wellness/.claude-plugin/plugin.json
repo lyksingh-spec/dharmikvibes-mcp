@@ -23,7 +23,7 @@
     "india"
   ],
   "icon": "./assets/icon.png",
-  "documentationUrl": "https://wellness.dharmikvibes.com/ai/openapi.json",
+  "documentationUrl": "https://github.com/lyksingh-spec/dharmikvibes-mcp/tree/main/plugins/dharmikvibes-wellness",
   "supportUrl": "https://wellness.dharmikvibes.com/about",
   "privacyPolicyUrl": "https://dharmikvibes.com/privacy-policy",
   "termsOfServiceUrl": "https://dharmikvibes.com/terms-conditions"

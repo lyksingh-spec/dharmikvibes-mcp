@@ -27,7 +27,7 @@
     "audio-series"
   ],
   "icon": "./assets/icon.png",
-  "documentationUrl": "https://studio.dharmikvibes.com/ai/openapi.json",
+  "documentationUrl": "https://github.com/lyksingh-spec/dharmikvibes-mcp/tree/main/plugins/dharmikstudio",
   "supportUrl": "https://studio.dharmikvibes.com/support",
   "privacyPolicyUrl": "https://studio.dharmikvibes.com/privacy",
   "termsOfServiceUrl": "https://studio.dharmikvibes.com/terms"

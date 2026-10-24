@@ -48,7 +48,7 @@ The plugin is read-only. It has no prices, does not book pujas or yatras, set re
 
 ## Data
 
-The plugin runs no code on your computer and has no hooks or scripts. When a skill uses the connector, Claude sends your search words, city, dates or the id of a page to divineai-mcp.dharmikvibes.com, which DharmikVibes operates, and shows you what comes back. The server needs no account, asks for no personal data and returns only public content. Requests are logged for security and reliability as described in the privacy policy. Nothing is sent anywhere else.
+The plugin runs no code on your computer and has no hooks or scripts. When a skill uses the connector, Claude sends a city name or slug, dates or a date window, and a vrat or festival name to divineai-mcp.dharmikvibes.com, which DharmikVibes operates, and shows you what comes back. The server needs no account, asks for no personal data and returns only public content. Requests are logged for security and reliability as described in the privacy policy. Nothing is sent anywhere else.
 
 - Privacy policy: https://divineai.dharmikvibes.com/en/privacy/
 - Terms: https://divineai.dharmikvibes.com/en/terms/

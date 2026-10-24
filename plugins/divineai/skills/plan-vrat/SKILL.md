@@ -17,7 +17,7 @@ Use this for "next Ekadashi kab hai?", "vrat dates this month", "when is Pradosh
 
 - Each vrat: **Name**, date and weekday, deity, basis in a few words.
 - The health reminder in one line.
-- The DivineAI link.
+- The DivineAI link, only as returned (or the DivineAI home page).
 
 ## House rules (apply to every answer)
 

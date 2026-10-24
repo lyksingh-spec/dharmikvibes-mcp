@@ -51,7 +51,7 @@ The plugin is read-only. It does not book, hold a place, take payment, send an e
 
 ## Data
 
-The plugin runs no code on your computer and has no hooks or scripts. When a skill uses the connector, Claude sends your search words, city, dates or the id of a page to wellness.dharmikvibes.com, which DharmikVibes operates, and shows you what comes back. The server needs no account, asks for no personal data and returns only public content. Requests are logged for security and reliability as described in the privacy policy. Nothing is sent anywhere else.
+The plugin runs no code on your computer and has no hooks or scripts. When a skill uses the connector, Claude sends your search words, an offering type, or the id of an offering, page or blog post to wellness.dharmikvibes.com, which DharmikVibes operates, and shows you what comes back. The server needs no account, asks for no personal data and returns only public content. Requests are logged for security and reliability as described in the privacy policy. Nothing is sent anywhere else.
 
 - Privacy policy: https://dharmikvibes.com/privacy-policy
 - Terms: https://dharmikvibes.com/terms-conditions

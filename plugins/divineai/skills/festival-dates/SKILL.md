@@ -12,14 +12,14 @@ Use this for "when is Diwali this year?", "festivals in the next two months", "à
 1. Work out the window: a named festival (search a long enough window, up to 400 days) or "coming up" (default 45 to 60 days).
 2. Call `get_festival_dates` with `from_date` (omit for today in India) and `days` or `to_date`.
 3. Keep only festivals that match the user's question. List the "date to be confirmed" ones separately, without a date.
-4. Add the "Open in DivineAI" link from the result.
+4. Add an "Open in DivineAI" link only if the result includes one; otherwise point to https://divineai.dharmikvibes.com/en/ or the DivineAI app. Never build a link yourself.
 
 ## Answer format
 
 - One line of context (window, India time).
 - Each festival: **Name** (Hindi name), date and weekday, region, one line on its significance when returned.
 - "Date to be confirmed" items, if relevant, in one line.
-- The DivineAI link.
+- The DivineAI link, only as returned (or the DivineAI home page).
 
 ## House rules (apply to every answer)
 
