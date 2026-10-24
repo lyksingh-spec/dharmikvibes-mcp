@@ -1,0 +1,30 @@
+{
+  "name": "dharmikvibes-wellness",
+  "displayName": "DharmikVibes Wellness",
+  "version": "1.0.0",
+  "description": "Find DharmikVibes spiritual wellness journeys, retreats, experiences and group sessions across India, with day-by-day plans, inclusions and published price labels. Read-only.",
+  "author": {
+    "name": "DIVVIB LIFESTYLE PRIVATE LIMITED",
+    "email": "hi@dharmikvibes.com",
+    "url": "https://dharmikvibes.com"
+  },
+  "homepage": "https://wellness.dharmikvibes.com",
+  "repository": "https://github.com/lyksingh-spec/dharmikvibes-mcp",
+  "license": "MIT",
+  "keywords": [
+    "wellness",
+    "yoga",
+    "meditation",
+    "ayurveda",
+    "retreat",
+    "rishikesh",
+    "varanasi",
+    "spiritual-travel",
+    "india"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://wellness.dharmikvibes.com/ai/openapi.json",
+  "supportUrl": "https://wellness.dharmikvibes.com/about",
+  "privacyPolicyUrl": "https://dharmikvibes.com/privacy-policy",
+  "termsOfServiceUrl": "https://dharmikvibes.com/terms-conditions"
+}

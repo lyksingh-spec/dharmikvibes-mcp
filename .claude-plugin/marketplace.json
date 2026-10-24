@@ -1,0 +1,27 @@
+{
+  "name": "dharmikvibes",
+  "owner": {
+    "name": "DIVVIB LIFESTYLE PRIVATE LIMITED",
+    "email": "hi@dharmikvibes.com"
+  },
+  "metadata": {
+    "description": "Read-only DharmikVibes plugins for Claude: DharmikStudio devotional catalogue, DivineAI panchang and festival dates, and DharmikVibes Wellness journeys."
+  },
+  "plugins": [
+    {
+      "name": "dharmikstudio",
+      "source": "./plugins/dharmikstudio",
+      "description": "Find Hindu devotional audio series, epics, aartis and mantras with meaning, Gita lessons, temple stories and festival and vrat guides from DharmikStudio, in Hindi and English, with links to listen, watch or read. Read-only."
+    },
+    {
+      "name": "divineai",
+      "source": "./plugins/divineai",
+      "description": "Hindu panchang for your city, festival dates checked against official and temple sources, and vrat days, from DivineAI by DharmikVibes. Read-only, no prices."
+    },
+    {
+      "name": "dharmikvibes-wellness",
+      "source": "./plugins/dharmikvibes-wellness",
+      "description": "Find DharmikVibes spiritual wellness journeys, retreats, experiences and group sessions across India, with day-by-day plans, inclusions and published price labels. Read-only."
+    }
+  ]
+}

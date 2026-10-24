@@ -20,6 +20,15 @@ Claude (Settings > Connectors > Add custom connector), ChatGPT (developer mode),
 
 Gemini CLI: see `gemini/`.
 
+## Claude plugins
+
+Three Claude plugins live in `plugins/`, each a connector to the server above plus skills that tell Claude how to answer: `plugins/dharmikstudio`, `plugins/divineai` (connector URL `https://divineai-mcp.dharmikvibes.com/claude/divineai`) and `plugins/dharmikvibes-wellness`. All are read-only and need no sign-in. In Claude Code:
+
+```
+/plugin marketplace add lyksingh-spec/dharmikvibes-mcp
+/plugin install dharmikstudio --marketplace lyksingh-spec/dharmikvibes-mcp
+```
+
 ## Contact
 studio@dharmikvibes.com (Studio) · hi@dharmikvibes.com (DivineAI) · spiritualwellness@dharmikvibes.com (Wellness)
 Privacy: https://studio.dharmikvibes.com/privacy · https://divineai.dharmikvibes.com/en/privacy/ · https://dharmikvibes.com/privacy-policy

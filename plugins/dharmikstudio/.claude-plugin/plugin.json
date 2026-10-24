@@ -1,0 +1,34 @@
+{
+  "name": "dharmikstudio",
+  "displayName": "DharmikStudio",
+  "version": "1.0.0",
+  "description": "Find Hindu devotional audio series, epics, aartis and mantras with meaning, Gita lessons, temple stories and festival and vrat guides from DharmikStudio, in Hindi and English, with links to listen, watch or read. Read-only.",
+  "author": {
+    "name": "DIVVIB LIFESTYLE PRIVATE LIMITED",
+    "email": "hi@dharmikvibes.com",
+    "url": "https://dharmikvibes.com"
+  },
+  "homepage": "https://studio.dharmikvibes.com",
+  "repository": "https://github.com/lyksingh-spec/dharmikvibes-mcp",
+  "license": "MIT",
+  "keywords": [
+    "devotional",
+    "bhakti",
+    "hindu",
+    "aarti",
+    "mantra",
+    "bhagavad-gita",
+    "ramayana",
+    "katha",
+    "temples",
+    "festivals",
+    "vrat",
+    "hindi",
+    "audio-series"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://studio.dharmikvibes.com/ai/openapi.json",
+  "supportUrl": "https://studio.dharmikvibes.com/support",
+  "privacyPolicyUrl": "https://studio.dharmikvibes.com/privacy",
+  "termsOfServiceUrl": "https://studio.dharmikvibes.com/terms"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dharmikstudio": {
+      "type": "http",
+      "url": "https://studio.dharmikvibes.com/mcp"
+    }
+  }
+}

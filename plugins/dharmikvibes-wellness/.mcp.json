@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dharmikvibes-wellness": {
+      "type": "http",
+      "url": "https://wellness.dharmikvibes.com/mcp"
+    }
+  }
+}

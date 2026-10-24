@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "divineai": {
+      "type": "http",
+      "url": "https://divineai-mcp.dharmikvibes.com/claude/divineai"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "divineai",
+  "displayName": "DivineAI",
+  "version": "1.0.0",
+  "description": "Hindu panchang for your city, festival dates checked against official and temple sources, and vrat days, from DivineAI by DharmikVibes. Read-only, no prices.",
+  "author": {
+    "name": "DIVVIB LIFESTYLE PRIVATE LIMITED",
+    "email": "hi@dharmikvibes.com",
+    "url": "https://dharmikvibes.com"
+  },
+  "homepage": "https://divineai.dharmikvibes.com/en/",
+  "repository": "https://github.com/lyksingh-spec/dharmikvibes-mcp",
+  "license": "MIT",
+  "keywords": [
+    "panchang",
+    "tithi",
+    "nakshatra",
+    "hindu-calendar",
+    "festivals",
+    "vrat",
+    "ekadashi",
+    "hindi"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://divineai.dharmikvibes.com/en/",
+  "supportUrl": "https://divineai.dharmikvibes.com/en/support/",
+  "privacyPolicyUrl": "https://divineai.dharmikvibes.com/en/privacy/",
+  "termsOfServiceUrl": "https://divineai.dharmikvibes.com/en/terms/"
+}
